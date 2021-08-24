@@ -1,0 +1,7 @@
+ code by Geoff Maguda
+
+
+NB: make sure you have running server for example xampp or wamp etc.
+
+   test  indexprocedure.php    for Procedural PHP way, thus php procedural code
+   test  indexoop.php          for Object Oriented PHP way, thus php object oriented code
